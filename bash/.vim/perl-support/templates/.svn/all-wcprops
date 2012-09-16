@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/bash/.vim/perl-support/templates
+END
+comments.template
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/bash/.vim/perl-support/templates/comments.template
+END
+statements.template
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/bash/.vim/perl-support/templates/statements.template
+END
+pod.template
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/bash/.vim/perl-support/templates/pod.template
+END
+Templates
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/bash/.vim/perl-support/templates/Templates
+END
+idioms.template
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/bash/.vim/perl-support/templates/idioms.template
+END

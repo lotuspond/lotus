@@ -1,0 +1,77 @@
+10
+
+dir
+7
+http://localhost/svn/trunk/bash/.vim
+http://localhost/svn
+
+
+
+2011-07-15T09:07:57.266918Z
+5
+lotus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d1620634-19b4-4da6-8316-9055e83c326c
+
+doc
+dir
+
+autoload
+dir
+
+ftplugin
+dir
+
+README.perlsupport
+file
+
+
+
+
+2011-04-21T10:08:42.000000Z
+f15de5fb3168280e016099df5f8f8a47
+2011-07-15T09:07:57.266918Z
+5
+lotus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11917
+
+perl-support
+dir
+
+plugin
+dir
+
